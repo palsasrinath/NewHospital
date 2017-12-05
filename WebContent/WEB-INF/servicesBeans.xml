@@ -1,0 +1,13 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+	
+	<bean id="myServicesBean" class="net.codejava.spring.MyServices">
+		<property name="businessBean" ref="myBusinessBean" />
+		<property name="productServiceBean" ref="productServicesBean" />
+	</bean>
+	
+	<import resource="productServices.xml" />
+		
+</beans>
