@@ -77,8 +77,8 @@
 				 </div><!-- panel ends -->
 <!-- buttons -->
 		<div class="col-md-2 col-md-offset-10 col-xs-offset-2 btn_form">
-			<button class="btn btn-danger">Cancel</button>
-			<button class="btn btn-success col-xs-offset-1">Save</button>
+			<button class="btn btn-danger">click her to cancel</button>
+			<button class="btn btn-success col-xs-offset-1">click here to save</button>
 		</div>
 
 			</form:form>
