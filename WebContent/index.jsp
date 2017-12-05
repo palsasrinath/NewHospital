@@ -308,9 +308,12 @@
 								<!-- Single Services -->
 								<div class="single-services">
 									<div class="single-services-content">
+										
 										<div class="skills">Success Rate 96%</div>
+										<div class="skills">Success Rate 91%</div>
 										<div class="skills1">Happy Patients 92%</div> 
 										<div class="skills2">Health Care 100%</div>
+										<div class="skills2">Health Care 110%</div>
 										<div class="skills3">success rate 90%</div>
 										</div>
 								</div><!-- End Single Services -->
