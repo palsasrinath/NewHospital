@@ -7,8 +7,8 @@
 <body bgcolor="#008000">
 <center><form><pre>
 <h3> Login form</h3>
-Name:     <input type="text" name="lname"><br><br>
-Password: <input type="password" name="lpwd"><br><br>
+Name:     <input type="text" name="loginname"><br><br>
+Password: <input type="password" name="loginpwd"><br><br>
 <input type="button" value="submit"></pre>
 </form></center>
 </body>
